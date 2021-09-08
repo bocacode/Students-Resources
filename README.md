@@ -17,13 +17,13 @@ https://leetcode.com/
 ## VS Code extensions:
 
 - bracket pair colorizer
-- ive server
+- live server
 - prettier
 
 
 ## Terminal:
 
-###### Theme for your terminal
+#### Theme for your terminal
 
 https://ohmyz.sh/
 
