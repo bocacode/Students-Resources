@@ -1,4 +1,4 @@
-# Welcome to Students Resources
+# Welcome to Students Resources 
 
 ## Practice typing:
 
@@ -15,14 +15,15 @@ https://github.com/metagrover/ES6-for-humans
 https://leetcode.com/
 
 ## VS Code extensions:
-bracket pair colorizer
-live server
-prettier
+
+- bracket pair colorizer
+- ive server
+- prettier
 
 
-## Terminal
+## Terminal:
 
-Theme for your terminal
+###### Theme for your terminal
 
 https://ohmyz.sh/
 
@@ -107,17 +108,21 @@ https://pages.github.com/
 ## React:
 
 Installing router on react
+
 https://reactrouter.com/
 
 Declarative routing for React
+
 https://reactrouter.com/web/guides/quick-start
 
 
 ## Data Structure:
+
 https://www.cs.usfca.edu/~galles/visualization/QueueArray.html
 https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 
-*Data Science toolkit:*
+## Data Science:
+
 https://www.anaconda.com/products/individual-d
 
 ## CSS:
@@ -135,29 +140,37 @@ https://bennettfeely.com/clippy/
 ## UX/UI:
 
 Drawio.com (creating)
+
 https://app.diagrams.net/
 
 Figma.com (wireframing)
+
 https://www.figma.com/
 
 Software to download (wireframing)
+
 https://helpx.adobe.com/xd/get-started.html
 
 Templates & UI kits
+
 https://www.xdguru.com/
 
 Inspiration for creating
+
 https://www.awwwards.com/
 
 Translates sketches to code  
+
 https://sketch2code.azurewebsites.net/
 
-Stock images:
+Stock images
+
 https://coverr.co/
 
 https://unsplash.com/
 
-Create gifs:
+Create gifs
+
 https://gifox.io/
 
 
