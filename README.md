@@ -1,4 +1,4 @@
-# Welcome to Students Resources 
+# Welcome to Students Resources 🐣
 
 ## Practice typing:
 
@@ -23,7 +23,7 @@ https://leetcode.com/
 
 ## Terminal:
 
-##### Theme for your terminal
+Theme for your terminal
 
 https://ohmyz.sh/
 
