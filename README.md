@@ -157,7 +157,7 @@ https://bennettfeely.com/clippy/
 
 ## UX/UI:
 
-Drawio.com (creating)
+Draw.io (creating)
 
 https://app.diagrams.net/
 
