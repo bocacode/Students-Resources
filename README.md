@@ -14,6 +14,10 @@ https://github.com/metagrover/ES6-for-humans
 
 https://leetcode.com/
 
+Vs Code Shortcuts
+
+https://medium.com/@miguellattuada/useful-visual-studio-code-keyboard-shortcuts-d81599893716
+
 ## VS Code extensions:
 
 - bracket pair colorizer
