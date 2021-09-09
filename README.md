@@ -89,6 +89,10 @@ React App using firebase hosting
 
 https://jonathans199.medium.com/publish-your-react-app-to-free-firebase-hosting-c4aa38b84a5e
 
+Express API using firebase hosting and functions
+
+https://medium.com/boca-code/the-basic-process-is-that-we-will-use-firebase-cloud-functions-to-create-a-single-function-app-13ba3b852077
+
 React App using AWS
 
 https://medium.com/boca-code/deploy-your-react-app-to-aws-s3-bucket-and-with-ci-cd-1c9ce03023c2
@@ -114,6 +118,10 @@ https://reactrouter.com/
 Declarative routing for React
 
 https://reactrouter.com/web/guides/quick-start
+
+Hookrouter (light-weight, newer routing library)
+
+https://www.npmjs.com/package/hookrouter
 
 
 ## Data Structure:
