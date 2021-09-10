@@ -18,6 +18,10 @@ Vs Code Shortcuts
 
 https://medium.com/@miguellattuada/useful-visual-studio-code-keyboard-shortcuts-d81599893716
 
+Vs Code Shortcuts pdf
+
+[visual studio code shortcuts.pdf](https://github.com/bocacode/Students-Resources/files/7144296/visual.studio.code.shortcuts.pdf)
+
 ## VS Code extensions:
 
 - bracket pair colorizer
