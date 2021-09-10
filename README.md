@@ -37,6 +37,10 @@ Terminal commands
 
 https://levelup.gitconnected.com/20-terminal-commands-that-every-developer-should-know-f0d35e60f44d
 
+Get out of VIM pass 
+
+![image (1)](https://user-images.githubusercontent.com/81698768/132863577-3085b8f5-b590-4852-83b9-b0b80c16ff34.png)
+
 ## Database:
 
 MySQL resource
