@@ -27,6 +27,10 @@ https://medium.com/@miguellattuada/useful-visual-studio-code-keyboard-shortcuts-
 
 ## Terminal:
 
+Git cheat sheet 
+
+[git-cheatsheet-EN-dark.pdf](https://github.com/bocacode/Students-Resources/files/7144283/git-cheatsheet-EN-dark.pdf)
+
 Theme for your terminal
 
 https://ohmyz.sh/
