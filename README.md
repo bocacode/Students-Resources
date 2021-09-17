@@ -41,6 +41,8 @@ Git cheat sheet
 
 [git-cheatsheet-EN-dark.pdf](https://github.com/bocacode/Students-Resources/files/7144283/git-cheatsheet-EN-dark.pdf)
 
+[git-cheat-sheet.pdf](https://github.com/bocacode/Students-Resources/files/7186552/git-cheat-sheet.pdf)
+
 Theme for your terminal
 
 https://ohmyz.sh/
