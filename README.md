@@ -1,5 +1,11 @@
 # Welcome to Students Resources 🐣
 
+## Laptop setup:
+
+M1 Mac setup 
+
+https://medium.com/@vitoriaroas/m1-mac-developer-setup-69771f5f977d
+
 ## Practice typing:
 
 https://www.typingclub.com/
