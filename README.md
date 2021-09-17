@@ -6,6 +6,10 @@ M1 Mac setup
 
 https://medium.com/@vitoriaroas/m1-mac-developer-setup-69771f5f977d
 
+Mac setup an depth video 
+
+https://www.youtube.com/watch?v=fgD247xy8wI
+
 ## Practice typing:
 
 https://www.typingclub.com/
