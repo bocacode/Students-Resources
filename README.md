@@ -94,6 +94,9 @@ MongoDB - create Database
 
 https://www.tutorialspoint.com/mongodb/mongodb_create_database.htm
 
+Query and Projection Operators:
+https://docs.mongodb.com/manual/reference/operator/query/
+
 MongoDB - Environment
 
 https://www.tutorialspoint.com/mongodb/mongodb_environment.htm
