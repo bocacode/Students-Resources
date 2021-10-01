@@ -259,6 +259,10 @@ https://www.pramp.com/#/
 
 https://github.com/niksseif/Questions-I-ask-during-my-interviews
 
+JavaScript Has Table 
+
+https://www.freecodecamp.org/news/javascript-hash-table-associative-array-hashing-in-js/
+
 ## Cultural interview practice:
 
 https://www.va.gov/pbi/questions.asp
