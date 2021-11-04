@@ -138,6 +138,10 @@ Deploy Node express API to EC2 instance in AWS
 
 https://jonathans199.medium.com/how-to-deploy-node-express-api-to-ec2-instance-in-aws-bc038a401156
 
+Deploy a React app with s3 or cloudfront
+
+https://wolovim.medium.com/deploying-create-react-app-to-s3-or-cloudfront-48dae4ce0af
+
 Firebase hosting
 - Docs on deploying Express API to firebase (plus CORS and Caching)
   https://firebase.google.com/docs/hosting/functions
