@@ -297,6 +297,10 @@ Grammerhub
 
 http://grammerhub.org/home
 
+Latinos in Tech: Techqueria
+
+https://techqueria.org/get-involved/join/
+
 Florida JS
 
 https://floridajs.com/
