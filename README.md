@@ -1,5 +1,18 @@
 # Welcome to Students Resources 🐣
 
+1. [ Laptop setup. ](#laptop)
+2. [ Practice typing. ](#practice)
+3. [ Learning tools. ](#learning)
+4. [ VS Code extensions. ](#vscode)
+5. [ Terminal. ](#terminal)
+6. [ Database. ](#database)
+7. [ Sample API's. ](#sample)
+8. [ Cloud. ](#cloud)
+9. [ React. ](#react)
+10. [ React Native. ](#reactnative)
+11. [ Express. ](#express)
+
+<a name="laptop"></a>
 ## Laptop setup:
 
 M1 Mac setup 
@@ -10,10 +23,12 @@ Mac setup an depth video
 
 https://www.youtube.com/watch?v=fgD247xy8wI
 
+<a name="practice"></a>
 ## Practice typing:
 
 https://www.typingclub.com/
 
+<a name="learning"></a>
 ## Learning tools:
 
 https://scrimba.com/
@@ -34,13 +49,14 @@ Vs Code Shortcuts pdf
 
 [visual studio code shortcuts.pdf](https://github.com/bocacode/Students-Resources/files/7144296/visual.studio.code.shortcuts.pdf)
 
+<a name="vscode"></a>
 ## VS Code extensions:
 
 - bracket pair colorizer
 - live server
 - prettier
 
-
+<a name="terminal"></a>
 ## Terminal:
 
 Git cheat sheet 
@@ -67,6 +83,7 @@ Get out of VIM pass
 
 ![image (1)](https://user-images.githubusercontent.com/81698768/132863577-3085b8f5-b590-4852-83b9-b0b80c16ff34.png)
 
+<a name="database"></a>
 ## Database:
 
 MySQL resource
@@ -115,11 +132,12 @@ Firebase
 
 https://console.firebase.google.com/
 
-
+<a name="sample"></a>
 ## Sample API's:
 
 https://sampleapis.com/api-list
 
+<a name="cloud"></a>
 ## Cloud:
 
 React App using firebase hosting
@@ -150,6 +168,8 @@ Hosting your website through Github
 
 https://pages.github.com/
 
+
+<a name="react"></a>
 ## React:
 
 Installing router on react
@@ -164,6 +184,8 @@ Hookrouter (light-weight, newer routing library)
 
 https://www.npmjs.com/package/hookrouter
 
+
+<a name="reactnative"></a>
 ## React Native: 
 
 Framework 
@@ -174,6 +196,8 @@ https://reactnativeelements.com/
 
 https://docs.expo.dev/
 
+
+<a name="express"></a>
 ## Express:
 
 Express
