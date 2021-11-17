@@ -11,6 +11,9 @@
 9. [ React. ](#react)
 10. [ React Native. ](#reactnative)
 11. [ Express. ](#express)
+12. [ Data Structure. ](#datastructure)
+13. [ Data Science. ](#data)
+14. [ Python. ](#python)
 
 <a name="laptop"></a>
 ## Laptop setup:
@@ -208,16 +211,18 @@ Creating an Express API
 
 https://medium.com/boca-code/creating-an-express-api-step-by-step-cb7b9aab7b6
 
-
+<a name="datastructure"></a>
 ## Data Structure:
 
 https://www.cs.usfca.edu/~galles/visualization/QueueArray.html
 https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 
+<a name="data"></a>
 ## Data Science:
 
 https://www.anaconda.com/products/individual-d
 
+<a name="python"></a>
 ## Python:
 
 https://learnopencv.com/image-classification-using-feedforward-neural-network-in-keras/
