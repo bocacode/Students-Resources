@@ -14,6 +14,14 @@
 12. [ Data Structure. ](#datastructure)
 13. [ Data Science. ](#data)
 14. [ Python. ](#python)
+15. [ CSS. ](#css)
+16. [ UX/UI. ](#ux)
+17. [ README GitHub. ](#readme)
+18. [ Google Chrome Extensions. ](#google)
+19. [ Technical interview practice. ](#technical)
+20. [ Cultural interview practice. ](#cultural)
+21. [ Tech communities to join/participate. ](#tech)
+22. [ Guidelines for Writing About People With Disabilities. ](#guide)
 
 <a name="laptop"></a>
 ## Laptop setup:
@@ -229,6 +237,7 @@ https://learnopencv.com/image-classification-using-feedforward-neural-network-in
 
 https://realpython.com/nltk-nlp-python/
 
+<a name="css"></a>
 ## CSS:
 
 CSS flex  
@@ -241,6 +250,7 @@ https://cssgridgarden.com/
 CSS polygon  
 https://bennettfeely.com/clippy/
 
+<a name="ux"></a>
 ## UX/UI:
 
 Draw.io (creating)
@@ -279,6 +289,7 @@ Create gifs
 
 https://gifox.io/
 
+<a name="readme"></a>
 ## README GitHub:
 
 https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links
@@ -291,12 +302,14 @@ Update personal ReadMe
 
 https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 
+<a name="google"></a>
 ## Google Chrome Extensions:
 
 https://www.wappalyzer.com/?utm_source=popup&utm_medium=extension&utm_campaign=wappalyzer
 
 https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en
 
+<a name="technical"></a>
 ## Technical interview practice:
 
 https://www.sitepoint.com/5-common-coding-interview-challenges/
@@ -315,12 +328,14 @@ JavaScript Has Table
 
 https://www.freecodecamp.org/news/javascript-hash-table-associative-array-hashing-in-js/
 
+<a name="cultural"></a>
 ## Cultural interview practice:
 
 https://www.va.gov/pbi/questions.asp
 
 https://www.amazon.jobs/en/landing_pages/in-person-interview
 
+<a name="tech"></a>
 ## Tech communities to join/participate:
 
 Tech Hub South Florida
@@ -339,6 +354,7 @@ Florida JS
 
 https://floridajs.com/
 
+<a name="guide"></a>
 ## Guidelines for Writing About People With Disabilities:
 
 https://adata.org/factsheet/ADANN-writing
