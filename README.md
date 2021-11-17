@@ -194,6 +194,12 @@ https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 
 https://www.anaconda.com/products/individual-d
 
+## Python:
+
+https://learnopencv.com/image-classification-using-feedforward-neural-network-in-keras/
+
+https://realpython.com/nltk-nlp-python/
+
 ## CSS:
 
 CSS flex  
@@ -243,7 +249,6 @@ https://www.pexels.com/
 Create gifs
 
 https://gifox.io/
-
 
 ## README GitHub:
 
@@ -304,3 +309,7 @@ https://techqueria.org/get-involved/join/
 Florida JS
 
 https://floridajs.com/
+
+## Guidelines for Writing About People With Disabilities:
+
+https://adata.org/factsheet/ADANN-writing
