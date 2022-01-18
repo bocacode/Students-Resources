@@ -39,6 +39,8 @@ https://www.youtube.com/watch?v=fgD247xy8wI
 
 https://www.typingclub.com/
 
+https://monkeytype.com/
+
 https://typer.codepalmbeach.org/
 
 <a name="learning"></a>
