@@ -122,6 +122,8 @@ Examples for Beginners
 
 https://www3.ntu.edu.sg/home/ehchua/programming/sql/MySQL_Beginner.html#zz-2.4
 
+https://www.lucidchart.com/pages/er-diagrams#section_5
+
 Install MongoDB
 
 https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/
