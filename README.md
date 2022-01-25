@@ -313,7 +313,7 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 <a name="google"></a>
 ## Google Chrome Extensions:
 
-https://www.wappalyzer.com/?utm_source=popup&utm_medium=extension&utm_campaign=wappalyzer
+https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg
 
 https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en
 
