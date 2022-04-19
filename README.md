@@ -48,6 +48,8 @@ https://typer.codepalmbeach.org/
 
 https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_functions1
 
+https://edabit.com/tutorial/javascript
+
 https://scrimba.com/
 
 https://www.freecodecamp.org
