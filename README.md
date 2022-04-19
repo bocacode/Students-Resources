@@ -46,6 +46,8 @@ https://typer.codepalmbeach.org/
 <a name="learning"></a>
 ## Learning tools:
 
+https://www.w3schools.com/js/exercise_js.asp?filename=exercise_js_functions1
+
 https://scrimba.com/
 
 https://www.freecodecamp.org
