@@ -240,7 +240,7 @@ https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 <a name="data"></a>
 ## Data Science:
 
-https://www.anaconda.com/products/individual-d
+https://www.anaconda.com/
 
 <a name="python"></a>
 ## Python:
