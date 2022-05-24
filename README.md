@@ -14,14 +14,15 @@
 12. [ Data Structure. ](#datastructure)
 13. [ Data Science. ](#data)
 14. [ Python. ](#python)
-15. [ CSS. ](#css)
-16. [ UX/UI. ](#ux)
-17. [ README GitHub. ](#readme)
-18. [ Google Chrome Extensions. ](#google)
-19. [ Technical interview practice. ](#technical)
-20. [ Cultural interview practice. ](#cultural)
-21. [ Tech communities to join/participate. ](#tech)
-22. [ Guidelines for Writing About People With Disabilities. ](#guide)
+15. [ Typescript. ](#typescript)
+16. [ CSS. ](#css)
+17. [ UX/UI. ](#ux)
+18. [ README GitHub. ](#readme)
+19. [ Google Chrome Extensions. ](#google)
+20. [ Technical interview practice. ](#technical)
+21. [ Cultural interview practice. ](#cultural)
+22. [ Tech communities to join/participate. ](#tech)
+23. [ Guidelines for Writing About People With Disabilities. ](#guide)
 
 <a name="laptop"></a>
 ## Laptop setup:
@@ -249,6 +250,11 @@ https://learnopencv.com/image-classification-using-feedforward-neural-network-in
 
 https://realpython.com/nltk-nlp-python/
 
+
+## Typescript:
+
+Typescript Playgroud
+https://www.typescriptlang.org/play
 <a name="css"></a>
 ## CSS:
 
